@@ -1,0 +1,64 @@
+{
+    "EmployeeData": [
+        {
+            "name": "Akshat",
+            "team": "ADE"
+        },
+        {
+            "name": "Nikhil",
+            "team": "ADE"
+        },
+        {
+            "name": "Vatsal",
+            "team": "ADE"
+        },
+        {
+            "name": "Jajwalya",
+            "team": "GEO"
+        },
+        {
+            "name": "Ullas",
+            "team": "GEO"
+        },
+        {
+            "name": "Shiva",
+            "team": "GEO"
+        },
+        {
+            "name": "Varada",
+            "team": "STRUCT"
+        },
+        {
+            "name": "Vilayat",
+            "team": "STRUCT"
+        },
+        {
+            "name": "Ravi",
+            "team": "STRUCT"
+        }
+    ],
+    "TeamParkingData": [
+        {
+            "name": "ADE",
+            "wfoDays": [
+                "Wednesday",
+                "Thursday"
+            ]
+        },
+        {
+            "name": "GEO",
+            "wfoDays": [
+                "Monday",
+                "Tuesday"
+            ]
+        },
+        {
+            "name": "STRUCT",
+            "wfoDays": [
+                "Monday",
+                "Tuesday",
+                "Friday"
+            ]
+        }
+    ]
+}
